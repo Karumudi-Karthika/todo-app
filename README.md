@@ -13,7 +13,7 @@ This app allows users to:
 ## Tech Stack
 
 **Frontend:**
-- Angular (Standalone components)
+- Angular
 - TypeScript
 - SCSS for styling
 
@@ -25,3 +25,16 @@ This app allows users to:
 ## Clone this repository
 
 git clone https://github.com/Karumudi-Karthika/todo-app.git
+
+
+## Navigate into the frontend folder
+cd todo-app/frontend/todo-app
+
+## Install dependencies
+npm install
+
+## Start the Angular app
+npm start
+
+## Now open your browser and go to:
+ http://localhost:4200
